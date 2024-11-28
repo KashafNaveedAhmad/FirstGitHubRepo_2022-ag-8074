@@ -1,2 +1,2 @@
 print("A SAMPLE FILE!")
-print("hello world")
+print("hello")
